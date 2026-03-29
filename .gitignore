@@ -1,0 +1,19 @@
+# Muhim — githubga chiqmasin
+.env
+bot.db
+backups/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+
+# IDE
+.idea/
+.vscode/
+
+# Docker
+data/
